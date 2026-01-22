@@ -55,6 +55,12 @@ No silent removals are permitted.
 
 ---
 
+2026-01-22 — Metadata
+- Added explicit `license` field to JSON-LD Dataset object to satisfy schema validation requirements (non-functional change).
+
+
+---
+
 ## Disclaimer
 
 This changelog documents structural and editorial changes only.  
