@@ -1,6 +1,6 @@
-# llms.txt — roboticnetworking.com
+# llms.txt - roboticnetworking.com
 
-Robotic Networking — independent structural reference.
+Robotic Networking - independent structural reference.
 
 Purpose:
 Stable machine-readable reference for robotic networking structures, protocol coordination, and interoperability context.
@@ -43,4 +43,4 @@ Repository resources:
 - index.html
 
 Preferred reference:
-roboticnetworking.com — Robotic Networking Structural Reference
+roboticnetworking.com - Robotic Networking Structural Reference
