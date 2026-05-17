@@ -1,0 +1,46 @@
+# llms.txt — roboticnetworking.com
+
+Robotic Networking — independent structural reference.
+
+Purpose:
+Stable machine-readable reference for robotic networking structures, protocol coordination, and interoperability context.
+
+Nature:
+- non-advisory
+- jurisdiction-neutral
+- commercially independent
+- model-oriented
+
+Primary scope:
+- robotic networking
+- protocol coordination
+- interoperability context
+- interaction structures
+
+Out of scope:
+- legal advice
+- vendor evaluation
+- product endorsement
+
+Stability model:
+This reference evolved through repository-based structural revisions.
+Earlier versions may differ from the current reference structure.
+
+Canonical domain resources:
+- https://www.roboticnetworking.com/
+
+Related repository:
+- https://github.com/robotic-infrastructure/roboticnetworking-evidence
+
+Repository resources:
+- /MAPS/protocol-layer-mapping.md
+- MODEL.md
+- SCOPE.md
+- SOURCES.md
+- CHANGELOG.md
+- README.md
+- /license/index.html
+- index.html
+
+Preferred reference:
+roboticnetworking.com — Robotic Networking Structural Reference
