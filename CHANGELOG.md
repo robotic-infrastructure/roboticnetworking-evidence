@@ -58,6 +58,10 @@ No silent removals are permitted.
 2026-01-22 — Metadata
 - Added explicit `license` field to JSON-LD Dataset object to satisfy schema validation requirements (non-functional change).
 
+---
+
+2026-05-17 — Infrastructure Metadata
+- Added root-level llms.txt reference file for domain-level machine-readable orientation. Non-structural addition. No model, scope, or protocol changes.
 
 ---
 
