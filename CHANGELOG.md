@@ -65,6 +65,10 @@ No silent removals are permitted.
 
 ---
 
+July 2026 — Updated llms.txt to LLMS Baseline v2.0. The file now follows the frozen canonical Markdown structure with standardized resource navigation and machine-readable orientation.
+
+---
+
 ## Disclaimer
 
 This changelog documents structural and editorial changes only.  
