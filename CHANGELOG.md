@@ -69,6 +69,10 @@ July 2026 — Updated llms.txt to LLMS Baseline v2.0. The file now follows the f
 
 ---
 
+September 2026 — Added `robots.txt` and `sitemap.xml` to provide explicit host-level crawl and URL discovery signals. No changes were made to the published content, canonical URL, semantic model, or site structure.
+
+---
+
 ## Disclaimer
 
 This changelog documents structural and editorial changes only.  
