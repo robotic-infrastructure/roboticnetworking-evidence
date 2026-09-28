@@ -6,9 +6,6 @@ Independent reference project on robotic networking, interoperability, and commu
 
 - [Home](https://roboticnetworking.com/)
 
-## Main Sections
-
-- [Sources](https://roboticnetworking.com/sources/)
 
 ## Purpose
 
