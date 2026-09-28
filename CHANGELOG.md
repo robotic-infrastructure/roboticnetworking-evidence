@@ -73,6 +73,10 @@ September 2026 — Added `robots.txt` and `sitemap.xml` to provide explicit host
 
 ---
 
+September 2026 – Removed an invalid `llms.txt` reference to the non-existent `/sources/` web resource. The existing `SOURCES.md` Evidence Layer resource remains unchanged. No change to the published content, semantic model, site structure, or source documentation.
+
+---
+
 ## Disclaimer
 
 This changelog documents structural and editorial changes only.  
